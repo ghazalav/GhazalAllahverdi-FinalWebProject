@@ -1,0 +1,50 @@
+.card{
+    border: 1px solid rgb(89, 89, 102);
+    height:400px;
+    width:300px;
+    background-color: rgb(154, 160, 161);
+    margin-top: 5px;
+    margin-left: 15px;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 5px;
+    
+}
+
+.title{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+
+}
+
+.imgM{
+    height: 300px;
+    width: 220px;
+    margin-top:10px;
+    margin-left:10px;
+    border-radius: 5px;
+}
+
+.year{
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    color: black;
+
+}
+
+#edit{
+    margin-top: 20px;
+    margin-left: 210px;
+    margin-right: 5px;
+    color:rgb(25, 46, 231);
+    font-size: 24px;
+    cursor: pointer;
+}
+
+#delete{
+    font-size: 28px;
+    color:red;
+    cursor: pointer;
+}

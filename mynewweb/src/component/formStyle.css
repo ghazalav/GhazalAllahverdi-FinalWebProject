@@ -1,0 +1,118 @@
+.total{
+    position:absolute;
+    height: 100px;
+    width:1350px;
+}
+
+.mid{
+    font-size: 10px;  
+    width: 700px;
+    height: 100px;
+    margin-top: 5px;
+    margin-left: 10px;
+    
+}
+
+.spn{
+    color: rgb(176, 224, 243);
+    margin-left: 20px;
+}
+.box{
+    border-color: blue;
+    font-size: 10px; 
+    border:#f8f8f8 ;
+    border-radius: 2px;
+    background-color:#e7e4e4 ;
+    height: 30px;
+    width: 100px;
+    margin-left: 10px;
+    padding-left:3px;
+}
+.file{
+    border-color: blue;
+    margin-left:10px;
+}
+.Des{
+    border-color: blue;
+    font-size: 10px; 
+    border:#f8f8f8 ;
+    border-radius: 2px;
+    background-color:#e7e4e4 ;
+    height: 30px;
+    width: 330px;
+    margin-left: 10px;
+    padding-left:3px;
+}
+
+.button{
+    border-color: blue;
+    display: inline-block;
+    font-size: 10px; 
+    border:black ;
+    border-radius: 2px;
+    color: white;
+    background-color: rgb(38, 75, 238) ;
+    height: 30px;
+    width: 100px;
+    margin-left: 260px;
+    position: relative;
+    top: 0px;
+    margin-top: 5px;
+}
+
+
+.button:hover{
+    
+    background-color: blueviolet;
+        color: #fff;
+        cursor: pointer;
+        border: 2px solid #2c2c2c;
+    
+
+}
+
+.center{
+    background-color:rgb(171, 214, 235);
+    width: 500px;
+    border-radius: 10px;
+    
+
+}
+
+.midd{
+    position:relative;
+    background-color:rgb(44, 54, 56);
+    border: 1px solid rgb(44, 54, 56);
+    width:950px;
+    margin-left:120px;
+    top:120%;
+}
+
+
+.imgu{
+    border-color: blue;
+    font-size: 10px; 
+    border:#f8f8f8 ;
+    border-radius: 2px;
+    background-color:#e7e4e4 ;
+    height: 20px;
+    width: 200px;
+    margin-left: 10px;
+    padding-left:3px;
+
+}
+
+#view{
+    position: relative;
+    top:-120%;
+    margin-left: 1280px;
+   color: rgb(49, 228, 228);
+    font-size: 30px;
+    margin-bottom: 500px;
+    cursor: pointer;
+
+}
+
+#view:hover{
+    color: blueviolet;
+}

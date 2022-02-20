@@ -1,0 +1,40 @@
+.main{
+  
+    border-bottom: 1px solid rgb(24, 176, 236);
+    width:100%;
+    height: 100px;
+    background-color:rgb(0, 0, 0); ;
+
+}
+
+.mylogo{
+  
+  
+    height:150px;
+    
+    
+}
+
+.topic{
+    font-size: 20px;
+    margin-top: -100px;
+    margin-left: 580px; ;
+    color: rgba(193, 189, 235, 0.945);
+    text-shadow:20px;
+    height: 150px;
+    width:500px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+img{
+    width:150px;
+    height: 99px;
+}
+
+.img2{
+    height: 100px;
+    width:150px;
+    margin-left:1145px;
+    margin-top:-105px;
+}
